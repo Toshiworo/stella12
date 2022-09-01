@@ -1,4 +1,4 @@
---upgrade amino.py
+amino.py
 certifi==2020.12.5
 config==0.5.0.post0
 idna==2.10
